@@ -1,6 +1,6 @@
 # Tertnes Brass
 
-Tertnes Brass er et varmt og inkluderende brassband fra Tertnes i Bergen. Korpset ble stiftet 23. januar 1964 og spiller i Elitedivisjonen i NM Brass.
+Tertnes Brass er et varmt og inkluderende brassband fra Tertnes i Bergen. Korpset ble stiftet 23. januar 1964 og spiller i 1.divisjon i NM Brass.
 
 Denne GitHub-organisasjonen samler våre digitale tjenester og åpne prosjekter.
 
